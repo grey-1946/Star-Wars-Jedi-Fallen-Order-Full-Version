@@ -249,4 +249,4 @@ This repository serves as the official landing page for Star Wars Jedi: Fallen O
 **Get the most recent version of Star Wars Jedi: Fallen Order today!**
 
 ---
-**Last updated:** 2026-10-23 23:41:05 UTC
+**Last updated:** 2026-10-24 02:02:59 UTC
